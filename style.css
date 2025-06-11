@@ -1,0 +1,16 @@
+body
+{
+    background-color:rgb(24, 79, 2);
+    color: azure;
+}
+h2{
+    color: #FF7601;
+}
+.texto_paragrafo{
+    color: blanchedalmond;
+    font-size: 30px;
+}
+#nome_usuario{
+    font-weight: bold;
+    color: red;
+}
